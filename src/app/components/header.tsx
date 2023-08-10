@@ -6,7 +6,7 @@ export default function Header(){
      <Link href={'/'}>
       <h1 className="text-3xl">Next 
       <code className="text-purple-700 bg-purple-100">Atômic</code> Site</h1>
-     </Link>
+     </Link> 
       <nav className="flex">
         <span className="px-3 cursor-pointer py-1 hover:scale-125 transition">exemplo</span>
         <span className="px-3 cursor-pointer py-1 hover:scale-125 transition">exemplo</span>
